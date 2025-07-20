@@ -1,6 +1,6 @@
 
 
-````markdown
+
 # 📝 MERN Stack Blog App
 
 A full-featured **Blog Platform** built with the **MERN stack** (MongoDB, Express.js, React.js, Node.js). Includes modern features like **JWT authentication**, **rich text editing**, **image uploads**, **commenting**, **admin panel**, **search**, and more.
