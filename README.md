@@ -18,7 +18,7 @@ A full-featured **Blog Platform** built with the **MERN stack** (MongoDB, Expres
 - 📆 Post Scheduling and Draft Saving
 - 🌐 RESTful API built with Express
 - 📱 Mobile-Responsive UI with React
-- 📦 Fully modular codebase for scalability
+- 📦 Fully modular codebase for scalability.
 
 ---
 
